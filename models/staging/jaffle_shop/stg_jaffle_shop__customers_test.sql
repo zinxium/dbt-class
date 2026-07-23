@@ -9,6 +9,8 @@ source as (
 renamed as (
 
     select
+        id,
+        name
 
     from source
 
